@@ -1,3 +1,4 @@
+export * from './AbstractParseTreeVisitor';
 export * from './RuleNode';
 export * from './ErrorNode';
 export * from './TerminalNode';
